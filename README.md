@@ -1,9 +1,10 @@
 sighsmile.github.io
 ===================
 
-blog on github
-
+Welcome. 
 
 This is my blog, primarily in English, but Mandarine/Cantonese and Japanese may pop up once in a while. 
 
-I would like to use it to keep track of my life, including books, courses, projects ... 
+Articles may concern books, courses, projects, etc. Please contact me before repost anything from my blog.
+
+The template is based on [webfrog's blog](http://webfrogs.github.com). 
